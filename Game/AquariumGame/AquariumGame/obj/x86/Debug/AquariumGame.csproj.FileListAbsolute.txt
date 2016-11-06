@@ -1,0 +1,65 @@
+C:\Users\Sami\Documents\Visual Studio 2013\Projects\Terraria V1.0\Terraria V1.0\Terraria_V1._0\bin\x86\Debug\Terraria_V1._0.pdb
+C:\Users\Sami\Documents\Visual Studio 2013\Projects\Terraria V1.0\Terraria V1.0\Terraria_V1._0\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Sami\Documents\Visual Studio 2013\Projects\Terraria V1.0\Terraria V1.0\Terraria_V1._0\obj\x86\Debug\Terraria_V1._0.pdb
+C:\Users\Sami\Documents\Visual Studio 2013\Projects\Terraria V1.0\Terraria V1.0\Terraria_V1._0\obj\x86\Debug\AquariumGame.csprojResolveAssemblyReference.cache
+C:\Users\Sami\Documents\Visual Studio 2013\Projects\Terraria V1.0\Terraria V1.0\Terraria_V1._0\bin\x86\Debug\Content\background1.xnb
+C:\Users\Sami\Documents\Visual Studio 2013\Projects\Terraria V1.0\Terraria V1.0\Terraria_V1._0\bin\x86\Debug\Content\normal_fish.xnb
+C:\Users\Sami\Documents\Visual Studio 2013\Projects\Terraria V1.0\Terraria V1.0\Terraria_V1._0\bin\x86\Debug\Content\pill.xnb
+C:\Users\Sami\Documents\Visual Studio 2013\Projects\Terraria V1.0\Terraria V1.0\Terraria_V1._0\bin\x86\Debug\Content\buy_fish.xnb
+C:\Users\Sami\Documents\Visual Studio 2013\Projects\Terraria V1.0\Terraria V1.0\Terraria_V1._0\bin\x86\Debug\Content\golden_coin.xnb
+C:\Users\Sami\Documents\Visual Studio 2013\Projects\Terraria V1.0\Terraria V1.0\Terraria_V1._0\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Sami\Documents\Visual Studio 2013\Projects\Terraria V1.0\Terraria V1.0\Terraria_V1._0\bin\x86\Debug\Content\carrot_fish.xnb
+C:\Users\Sami\Documents\Visual Studio 2013\Projects\Terraria V1.0\Terraria V1.0\Terraria_V1._0\bin\x86\Debug\Content\rainbow_fish.xnb
+C:\Users\Sami\Documents\Visual Studio 2013\Projects\Terraria V1.0\Terraria V1.0\Terraria_V1._0\bin\x86\Debug\Content\octopus.xnb
+C:\Users\Sami\Documents\Visual Studio 2013\Projects\Terraria V1.0\Terraria V1.0\Terraria_V1._0\bin\x86\Debug\Content\SpriteFont2.xnb
+C:\Users\Sami\Documents\Visual Studio 2013\Projects\Terraria V1.0\Terraria V1.0\Terraria_V1._0\bin\x86\Debug\Content\cursor_damage.xnb
+C:\Users\Sami\Documents\Visual Studio 2013\Projects\Terraria V1.0\Terraria V1.0\Terraria_V1._0\bin\x86\Debug\xunit.dll
+C:\Users\Sami\Documents\Visual Studio 2013\Projects\Terraria V1.0\Terraria V1.0\Terraria_V1._0\bin\x86\Debug\xunit.extensions.dll
+C:\Users\Sami\Documents\Visual Studio 2013\Projects\Terraria V1.0\Terraria V1.0\Terraria_V1._0\bin\x86\Debug\xunit.xml
+C:\Users\Sami\Documents\Visual Studio 2013\Projects\Terraria V1.0\Terraria V1.0\Terraria_V1._0\bin\x86\Debug\xunit.extensions.xml
+C:\Users\Sami\Documents\Visual Studio 2013\Projects\Terraria V1.0\Terraria V1.0\Terraria_V1._0\bin\x86\Debug\Terraria_V1._0.exe
+C:\Users\Sami\Documents\Visual Studio 2013\Projects\Terraria V1.0\Terraria V1.0\Terraria_V1._0\obj\x86\Debug\Terraria_V1._0.exe
+C:\Users\Sami\Documents\Visual Studio 2013\Projects\Terraria V1.0\Terraria V1.0\Terraria_V1._0\bin\x86\Debug\Content\Ring001.xnb
+C:\Users\Sami\Documents\Visual Studio 2013\Projects\Terraria V1.0\Terraria V1.0\Terraria_V1._0\bin\x86\Debug\Content\blue_particle.xnb
+C:\Users\Sami\Documents\Visual Studio 2013\Projects\AquariumGame\AquariumGame\AquariumGame\bin\x86\Debug\Content\sprites\entities\normal_fish.xnb
+C:\Users\Sami\Documents\Visual Studio 2013\Projects\AquariumGame\AquariumGame\AquariumGame\bin\x86\Debug\Content\sprites\gameobjects\pill.xnb
+C:\Users\Sami\Documents\Visual Studio 2013\Projects\AquariumGame\AquariumGame\AquariumGame\bin\x86\Debug\Content\sprites\gameobjects\golden_coin.xnb
+C:\Users\Sami\Documents\Visual Studio 2013\Projects\AquariumGame\AquariumGame\AquariumGame\bin\x86\Debug\Content\sprites\entities\carrot_fish.xnb
+C:\Users\Sami\Documents\Visual Studio 2013\Projects\AquariumGame\AquariumGame\AquariumGame\bin\x86\Debug\Content\sprites\entities\rainbow_fish.xnb
+C:\Users\Sami\Documents\Visual Studio 2013\Projects\AquariumGame\AquariumGame\AquariumGame\bin\x86\Debug\Content\sprites\entities\octopus.xnb
+C:\Users\Sami\Documents\Visual Studio 2013\Projects\AquariumGame\AquariumGame\AquariumGame\bin\x86\Debug\Content\sprites\background1.xnb
+C:\Users\Sami\Documents\Visual Studio 2013\Projects\AquariumGame\AquariumGame\AquariumGame\bin\x86\Debug\Content\sprites\cursors\cursor_damage.xnb
+C:\Users\Sami\Documents\Visual Studio 2013\Projects\AquariumGame\AquariumGame\AquariumGame\bin\x86\Debug\Content\sprites\interfaces\playscreen\gold_interface.xnb
+C:\Users\Sami\Documents\Visual Studio 2013\Projects\AquariumGame\AquariumGame\AquariumGame\bin\x86\Debug\Content\sprites\interfaces\playscreen\loadbar_0.xnb
+C:\Users\Sami\Documents\Visual Studio 2013\Projects\AquariumGame\AquariumGame\AquariumGame\bin\x86\Debug\Content\sprites\interfaces\playscreen\loadbar_1.xnb
+C:\Users\Sami\Documents\Visual Studio 2013\Projects\AquariumGame\AquariumGame\AquariumGame\bin\x86\Debug\Content\sprites\interfaces\pause_interfaces\continue_button.xnb
+C:\Users\Sami\Documents\Visual Studio 2013\Projects\AquariumGame\AquariumGame\AquariumGame\bin\x86\Debug\Content\sprites\interfaces\pause_interfaces\menu_button.xnb
+C:\Users\Sami\Documents\Visual Studio 2013\Projects\AquariumGame\AquariumGame\AquariumGame\bin\x86\Debug\Content\sprites\interfaces\pause_interfaces\pause_banner.xnb
+C:\Users\Sami\Documents\Visual Studio 2013\Projects\AquariumGame\AquariumGame\AquariumGame\bin\x86\Debug\Content\sprites\interfaces\pause_interfaces\pause_interface.xnb
+C:\Users\Sami\Documents\Visual Studio 2013\Projects\AquariumGame\AquariumGame\AquariumGame\bin\x86\Debug\Content\sprites\interfaces\pause_interfaces\replay_button.xnb
+C:\Users\Sami\Documents\Visual Studio 2013\Projects\AquariumGame\AquariumGame\AquariumGame\bin\x86\Debug\Content\sprites\interfaces\playscreen\panel_level_cleared.xnb
+C:\Users\Sami\Documents\Visual Studio 2013\Projects\AquariumGame\AquariumGame\AquariumGame\bin\x86\Debug\Content\sprites\interfaces\game_menu\menu_panel.xnb
+C:\Users\Sami\Documents\Visual Studio 2013\Projects\AquariumGame\AquariumGame\AquariumGame\bin\x86\Debug\Content\sprites\interfaces\game_menu\menu_background.xnb
+C:\Users\Sami\Documents\Visual Studio 2013\Projects\AquariumGame\AquariumGame\AquariumGame\bin\x86\Debug\Content\sprites\particles\buuble.xnb
+C:\Users\Sami\Documents\Visual Studio 2013\Projects\AquariumGame\AquariumGame\AquariumGame\bin\x86\Debug\Content\sprites\particles\metaparticle.xnb
+C:\Users\Sami\Documents\Visual Studio 2013\Projects\AquariumGame\AquariumGame\AquariumGame\bin\x86\Debug\Content\sprites\interfaces\playscreen\test_background.xnb
+C:\Users\Sami\Documents\Visual Studio 2013\Projects\AquariumGame\AquariumGame\AquariumGame\bin\x86\Debug\Content\sprites\interfaces\game_menu\menu_panel_h.xnb
+C:\Users\Sami\Documents\Visual Studio 2013\Projects\AquariumGame\AquariumGame\AquariumGame\bin\x86\Debug\Content\sprites\interfaces\splashscreen\splashScreen_1.xnb
+C:\Users\Sami\Documents\Visual Studio 2013\Projects\AquariumGame\AquariumGame\AquariumGame\bin\x86\Debug\Content\sprites\interfaces\playscreen\buy_fish.xnb
+C:\Users\Sami\Documents\Visual Studio 2013\Projects\AquariumGame\AquariumGame\AquariumGame\bin\x86\Debug\Content\fonts\SpriteFont1.xnb
+C:\Users\Sami\Documents\Visual Studio 2013\Projects\AquariumGame\AquariumGame\AquariumGame\bin\x86\Debug\Content\fonts\SpriteFont2.xnb
+C:\Users\Sami\Documents\Visual Studio 2013\Projects\AquariumGame\AquariumGame\AquariumGame\bin\x86\Debug\Content\Ambient.xnb
+C:\Users\Sami\Documents\Visual Studio 2013\Projects\AquariumGame\AquariumGame\AquariumGame\bin\x86\Debug\Content\DisplacementScroll.xnb
+C:\Users\Sami\Documents\Visual Studio 2013\Projects\AquariumGame\AquariumGame\AquariumGame\bin\x86\Debug\AquariumGame.exe.manifest
+C:\Users\Sami\Documents\Visual Studio 2013\Projects\AquariumGame\AquariumGame\AquariumGame\bin\x86\Debug\AquariumGame.application
+C:\Users\Sami\Documents\Visual Studio 2013\Projects\AquariumGame\AquariumGame\AquariumGame\bin\x86\Debug\AquariumGame.exe
+C:\Users\Sami\Documents\Visual Studio 2013\Projects\AquariumGame\AquariumGame\AquariumGame\bin\x86\Debug\AquariumGame.pdb
+C:\Users\Sami\Documents\Visual Studio 2013\Projects\AquariumGame\AquariumGame\AquariumGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Sami\Documents\Visual Studio 2013\Projects\AquariumGame\AquariumGame\AquariumGame\obj\x86\Debug\AquariumGame.exe.manifest
+C:\Users\Sami\Documents\Visual Studio 2013\Projects\AquariumGame\AquariumGame\AquariumGame\obj\x86\Debug\AquariumGame.application
+C:\Users\Sami\Documents\Visual Studio 2013\Projects\AquariumGame\AquariumGame\AquariumGame\obj\x86\Debug\AquariumGame.exe
+C:\Users\Sami\Documents\Visual Studio 2013\Projects\AquariumGame\AquariumGame\AquariumGame\obj\x86\Debug\AquariumGame.pdb
+C:\Users\Sami\Documents\Visual Studio 2013\Projects\AquariumGame\AquariumGame\AquariumGame\bin\x86\Debug\Content\sprites\interfaces\playscreen\messagebox.xnb
+C:\Users\Sami\Documents\Visual Studio 2013\Projects\AquariumGame\AquariumGame\AquariumGame\obj\x86\Debug\AquariumGame.csprojResolveAssemblyReference.cache
+C:\Users\Sami\Documents\Visual Studio 2013\Projects\AquariumGame\AquariumGame\AquariumGame\bin\x86\Debug\Content\sprites\interfaces\textboxes\textbox.xnb
+C:\Users\Sami\Documents\Visual Studio 2013\Projects\AquariumGame\AquariumGame\AquariumGame\bin\x86\Debug\Content\fonts\SpriteFont3.xnb

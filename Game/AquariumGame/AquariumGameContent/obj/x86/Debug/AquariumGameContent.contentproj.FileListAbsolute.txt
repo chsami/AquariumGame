@@ -1,0 +1,2 @@
+C:\Users\Sami\Documents\Visual Studio 2013\Projects\Terraria V1.0\Terraria V1.0\Terraria_V1._0Content\obj\x86\Debug\AquariumGameContent.contentprojResolveAssemblyReference.cache
+C:\Users\Sami\Documents\Visual Studio 2013\Projects\AquariumGame\AquariumGame\AquariumGameContent\obj\x86\Debug\AquariumGameContent.contentprojResolveAssemblyReference.cache

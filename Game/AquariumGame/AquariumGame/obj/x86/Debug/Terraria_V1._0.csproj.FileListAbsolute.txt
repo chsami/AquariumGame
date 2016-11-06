@@ -1,0 +1,7 @@
+c:\users\sami\documents\visual studio 2013\Projects\Terraria V1.0\Terraria V1.0\Terraria_V1._0\bin\x86\Debug\Terraria_V1._0.exe
+c:\users\sami\documents\visual studio 2013\Projects\Terraria V1.0\Terraria V1.0\Terraria_V1._0\bin\x86\Debug\Terraria_V1._0.pdb
+c:\users\sami\documents\visual studio 2013\Projects\Terraria V1.0\Terraria V1.0\Terraria_V1._0\obj\x86\Debug\Terraria_V1._0.csprojResolveAssemblyReference.cache
+c:\users\sami\documents\visual studio 2013\Projects\Terraria V1.0\Terraria V1.0\Terraria_V1._0\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\sami\documents\visual studio 2013\Projects\Terraria V1.0\Terraria V1.0\Terraria_V1._0\obj\x86\Debug\Terraria_V1._0.exe
+c:\users\sami\documents\visual studio 2013\Projects\Terraria V1.0\Terraria V1.0\Terraria_V1._0\obj\x86\Debug\Terraria_V1._0.pdb
+c:\users\sami\documents\visual studio 2013\Projects\Terraria V1.0\Terraria V1.0\Terraria_V1._0\bin\x86\Debug\Content\Ninja.xnb
